@@ -1,3 +1,3 @@
 # MovieTicketBookingSystem
-#Name: Md. Abid Rashid Abeer
-#ID:0242310005341114
+Name: Md. Abid Rashid Abeer
+ID:0242310005341114
